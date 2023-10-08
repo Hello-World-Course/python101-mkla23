@@ -9,3 +9,5 @@
 # "Hello World I love Python!"
 
 # WRITE CODE HERE:
+
+print("Hello World I love Python!")
